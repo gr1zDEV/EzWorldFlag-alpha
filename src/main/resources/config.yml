@@ -1,0 +1,26 @@
+autosave-interval-ticks: 6000
+
+defaults:
+  mob-spawning: ALLOW
+  monster-spawning: ALLOW
+  animal-spawning: ALLOW
+  pvp: ALLOW
+  block-break: ALLOW
+  block-place: ALLOW
+  explosions: ALLOW
+  fire-spread: ALLOW
+  leaf-decay: ALLOW
+  hunger-drain: ALLOW
+  fall-damage: ALLOW
+  weather: ALLOW
+  ice-form: ALLOW
+  snow-form: ALLOW
+  redstone: ALLOW
+  item-drop: ALLOW
+  item-pickup: ALLOW
+  crop-growth: ALLOW
+  enderman-grief: ALLOW
+  creeper-block-damage: ALLOW
+  wither-block-damage: ALLOW
+
+worlds: {}
