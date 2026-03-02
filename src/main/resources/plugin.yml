@@ -1,0 +1,46 @@
+name: EzWorldFlags
+version: '${project.version}'
+main: com.ezinnovations.ezworldflags.EzWorldFlags
+api-version: '1.21'
+description: Lightweight per-world flag management with GUI
+authors:
+  - EzInnovations
+website: https://github.com/EzInnovations/EzWorldFlags
+folia-supported: true
+
+commands:
+  worldflags:
+    description: Manage world flags
+    usage: /<command> [world] [flag] [value]
+    aliases: [wf]
+    permission: ezworldflags.gui
+
+permissions:
+  ezworldflags.*:
+    description: All EzWorldFlags permissions
+    default: op
+    children:
+      ezworldflags.gui: true
+      ezworldflags.set: true
+      ezworldflags.get: true
+      ezworldflags.list: true
+      ezworldflags.reload: true
+      ezworldflags.reset: true
+  ezworldflags.gui:
+    description: Open the world flags GUI
+    default: op
+  ezworldflags.set:
+    description: Set world flags via command
+    default: op
+  ezworldflags.get:
+    description: Check world flag values
+    default: op
+  ezworldflags.list:
+    description: List world flags
+    default: op
+  ezworldflags.reload:
+    description: Reload plugin config
+    default: op
+  ezworldflags.reset:
+    description: Reset world flags
+    default: op
