@@ -1,3 +1,8 @@
+---
+title: Troubleshooting & FAQ
+nav_order: 8
+---
+
 # Troubleshooting & FAQ
 
 ## "I can't open the GUI"

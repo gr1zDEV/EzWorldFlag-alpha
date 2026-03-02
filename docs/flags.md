@@ -1,3 +1,8 @@
+---
+title: Flag Reference
+nav_order: 6
+---
+
 # Flag Reference
 
 Each flag can be set to `ALLOW`, `DENY`, or `DEFAULT` per world.

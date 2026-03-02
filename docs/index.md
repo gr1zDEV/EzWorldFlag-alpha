@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # EzWorldFlags Documentation
 
 Welcome to the official user documentation for **EzWorldFlags**.
