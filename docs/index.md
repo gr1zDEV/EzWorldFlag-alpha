@@ -32,3 +32,7 @@ EzWorldFlags is a lightweight Paper/Folia plugin that lets you control gameplay 
 5. Use **Save & Close** in the GUI.
 
 If you prefer command-line administration, jump to [Commands](commands.md).
+
+---
+
+[Next: Getting Started ➡](getting-started.md){: .btn .btn-primary }
