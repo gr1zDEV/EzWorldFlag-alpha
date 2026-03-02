@@ -1,0 +1,6 @@
+title: EzWorldFlags Documentation
+description: User-facing guide for installing and using EzWorldFlags
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
