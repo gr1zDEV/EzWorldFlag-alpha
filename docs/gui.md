@@ -43,3 +43,8 @@ Inside a world editor:
 - Yellow name: `DEFAULT` (inherits resolved server default)
 
 When a flag is `DEFAULT`, lore shows the inherited result (`ALLOW` or `DENY`).
+
+---
+
+[⬅ Previous: Getting Started](getting-started.md){: .btn }
+[Next: Commands ➡](commands.md){: .btn }

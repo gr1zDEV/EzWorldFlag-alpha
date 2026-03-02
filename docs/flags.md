@@ -36,3 +36,8 @@ Each flag can be set to `ALLOW`, `DENY`, or `DEFAULT` per world.
 - `explosions = DENY` cancels explosion events entirely.
 - `creeper-block-damage` and `wither-block-damage` are granular controls for block damage from those entities.
 - `mob-spawning = DENY` blocks natural spawning globally, including monsters/animals.
+
+---
+
+[⬅ Previous: Permissions](permissions.md){: .btn }
+[Next: Configuration ➡](configuration.md){: .btn }

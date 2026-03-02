@@ -51,3 +51,8 @@ After editing config files, run:
 ```text
 /worldflags reload
 ```
+
+---
+
+[⬅ Previous: Flag Reference](flags.md){: .btn }
+[Next: Troubleshooting & FAQ ➡](faq.md){: .btn }

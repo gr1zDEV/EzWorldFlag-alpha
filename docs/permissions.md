@@ -19,3 +19,8 @@ nav_order: 5
 - `ezworldflags.reset` → use `/worldflags reset ...`.
 
 By default these are operator-level permissions.
+
+---
+
+[⬅ Previous: Commands](commands.md){: .btn }
+[Next: Flag Reference ➡](flags.md){: .btn }

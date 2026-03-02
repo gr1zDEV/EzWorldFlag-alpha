@@ -40,3 +40,8 @@ Every flag in each world has a **raw state**:
 
 When a world flag is `DEFAULT`, EzWorldFlags resolves it from `config.yml > defaults`.
 This lets you set global behavior once, then only override worlds that differ.
+
+---
+
+[⬅ Previous: Home](index.md){: .btn }
+[Next: Using the GUI ➡](gui.md){: .btn }

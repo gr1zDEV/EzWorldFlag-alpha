@@ -40,3 +40,8 @@ EzWorldFlags provides tab completion for:
 - loaded world names
 - flag IDs
 - set values (`ALLOW`, `DENY`, `DEFAULT`)
+
+---
+
+[⬅ Previous: Using the GUI](gui.md){: .btn }
+[Next: Permissions ➡](permissions.md){: .btn }

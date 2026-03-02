@@ -41,3 +41,7 @@ A common setup:
 /worldflags set world item-drop DENY
 /worldflags set world item-pickup DENY
 ```
+
+---
+
+[⬅ Previous: Configuration](configuration.md){: .btn }
