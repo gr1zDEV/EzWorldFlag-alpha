@@ -45,6 +45,10 @@ public final class SchedulerUtil {
     }
 
     public static void runTaskAsync(final @NotNull Plugin plugin, final @NotNull Runnable task) {
+        if (FOLIA) {
+            Bukkit.getAsyncScheduler().runNow(plugin, ignored -> task.run());
+            return;
+        }
         Bukkit.getScheduler().runTaskAsynchronously(plugin, task);
     }
 
