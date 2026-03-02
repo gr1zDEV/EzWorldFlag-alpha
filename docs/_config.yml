@@ -1,6 +1,14 @@
 title: EzWorldFlags Documentation
 description: User-facing guide for installing and using EzWorldFlags
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 plugins:
   - jekyll-remote-theme
 markdown: kramdown
+
+color_scheme: dark
+
+# Left sidebar navigation
+nav_enabled: true
+
+# Show GitBook-style pager links at the bottom of docs pages
+nav_sort: case_insensitive

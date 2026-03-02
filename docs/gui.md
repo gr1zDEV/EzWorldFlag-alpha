@@ -1,3 +1,8 @@
+---
+title: Using the GUI
+nav_order: 3
+---
+
 # Using the GUI
 
 EzWorldFlags includes a chest-based GUI for easy world and flag management.
