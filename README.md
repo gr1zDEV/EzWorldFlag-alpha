@@ -36,6 +36,9 @@ See `WorldFlag` enum for all supported flags and icon metadata.
 - `config.yml`: defaults and per-world overrides.
 - `messages.yml`: all player/admin-facing messages.
 
+## Documentation
+User-facing GitHub Pages docs live in `docs/` and can be published via GitHub Pages.
+
 ## Build from source
 ```bash
 mvn clean package
